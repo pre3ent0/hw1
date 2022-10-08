@@ -1,0 +1,15 @@
+body {
+  font-size: large;
+  font-style: italic;
+}
+ul {
+  padding: 0;
+  margin-left: 20px;
+}
+ol {
+  padding: 0;
+  margin-left: 20px;
+}
+hr {
+  color: whitesmoke;
+}
